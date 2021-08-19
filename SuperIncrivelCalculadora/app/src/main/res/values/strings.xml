@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SuperIncrivelCalculadora</string>
+    <string name="calc">Calculadora</string>
+    <string name="digite_um_numero">Informe um número</string>
+    <string name="bt_soma">+</string>
+    <string name="bt_subtracao">-</string>
+    <string name="bt_multiplicacao">*</string>
+    <string name="bt_divisao">/</string>
+</resources>
